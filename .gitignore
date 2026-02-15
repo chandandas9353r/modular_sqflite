@@ -6,8 +6,17 @@
 *.swp
 .buildlog/
 .history
+.DS_Store
+.atom/
+.svn/
+migrate_working_dir/
+.vscode/
 
-
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
 
 # Flutter repo-specific
 /bin/cache/
